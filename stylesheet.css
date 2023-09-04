@@ -1,9 +1,22 @@
 h1 {
-  color: #ff0000;
-  /* Gantikan font-size ke 40px */
-  font-size:40px;
-    /* Gantikan font-family ke serif */
-  font-family:serif;
+  color: #e6855e;
+  font-size: 30px;
+   
+  /* Gantikan height ke 80px */
+  height:80px;
+  
+  /* Gantikan width ke 200px */
+  width:200px;
+  
+}
+
+img {
+  /* Gantikan height ke 50px */
+  height:50px;
+  
+  /* Gantikan width ke 70px */
+  width:70px;
+  
 }
 p {
   color: #0000ff;
