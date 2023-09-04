@@ -12,3 +12,18 @@ p {
   /* Gantikan font-family ke "Lucida Grande" */
   font-family:"Lucida Grande";
   }
+body {
+  font-family: "Avenir Next";
+}
+.header{
+  background-color:#f7f2b4;
+  height: 90px;
+}
+.main{
+background-color:#bdf7f1;
+height: 600px;
+}
+.footer{
+background-color:#ceccf3;
+height: 270px;
+}
