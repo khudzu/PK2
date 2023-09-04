@@ -1,40 +1,10 @@
-h1 {
-  color: #e6855e;
-  font-size: 30px;
-   
-  /* Gantikan height ke 80px */
-  height:80px;
-  
-  /* Gantikan width ke 200px */
-  width:200px;
-  
-}
-
-img {
-  /* Gantikan height ke 50px */
-  height:50px;
-  float:right;
-  /* Gantikan width ke 70px */
-  width:70px;
-  
-}
-p {
-  color: #0000ff;
-  /* Gantikan font-size ke 20px */
-  font-size:20px;
-  /* Gantikan font-family ke "Lucida Grande" */
-  font-family:"Lucida Grande";
-  }
 body {
   font-family: "Avenir Next";
 }
-.header{
-  background-color:#f7f2b4;
-  height: 90px;
-}
-.header-logo{
-     font-size: 36px;
-     float:left;
+.header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
   }
 .main{
 background-color:#bdf7f1;
@@ -44,3 +14,25 @@ height: 600px;
 background-color:#ceccf3;
 height: 270px;
 }
+img {
+    /* Gantikan height ke 50px */
+    height:50px;
+    float:right;
+    /* Gantikan width ke 70px */
+    width:70px;
+    padding:20px 40px;
+  }
+
+  li {
+    list-style: none;
+    float:left;
+    padding:33px 20px;
+ }
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding:20px 40px;
+} 
+
+  
